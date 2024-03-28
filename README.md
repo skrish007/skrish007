@@ -1,7 +1,19 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
-![Coding Animation](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
-<br><br>
-<!-- Your Name's GitHub Profile README --><br><br># Hi there, I'm Shyam 👋<br><br>## 🎓 Education<br>- Master of Computer Applications (MCA) from Amal Jyothi College of Engineering, Kanjirappally, Kottayam<br><br>## 💻 Technologies<br>-  Programming Languages:  Python, Java, PHP, C<br>- Web Technologies: HTML, CSS, JavaScript<br>-  Tools & Frameworks:  Django, Docker, Git, Figma, Bootstrap<br>-  Cloud/Databases:  MySQL, MongoDB<br><be> 🌟 Project<br>-  JobMate : An Employee Recruitment System developed with features such as Resume screening, Interview scheduling, and more.  <br>## 🚀 Skills<br>- Adaptability<br>- Attentive Listening<br>- Problem Solving<br>- Conflict Resolution<br>- Emotional Intelligence<br>- Organization<br>- Teamwork<br>- Time Management<br><br><br><br>  Technologies: Python, Django, Bootstrap<br><br>## ⚡ Interests<br>- Movies<br>- Travel<br>- Cricket<br>- Current Affairs
+<h3 align="center" style="font-family: 'Kalam', cursive; font-size: 18px;">I'm a passionate software developer with a keen interest in building web applications and solving complex problems. I recently graduated with a Master's degree in Computer Applications from Kerala.</h3>
+<br><be>
+
+- 🔭 I’m currently working on **JobMate**
+
+- 🌱 I’m currently learning **React,Angular, Flutter**
+
+- 👨‍💻 All of my projects are available at [Github](Github)
+
+- 💬 Ask me about **Python, Django**
+  <be>
+  <br>
+##<br> 💻 Technologies<br>-  Programming Languages:  Python, Java, PHP, C<br>- Web Technologies: HTML, CSS, JavaScript<br>-  Tools & Frameworks:  Django, Docker, Git, Figma, Bootstrap<br>-  Cloud/Databases:  MySQL, MongoDB<br><be> 🌟 Project<br>-  JobMate : An Employee Recruitment System developed with features such as Resume screening, Interview scheduling, and more.  <br>## 🚀 Skills<br>- Adaptability<br>- Attentive Listening<br>- Problem Solving<br>- Conflict Resolution<br>- Emotional Intelligence<br>- Organization<br>- Teamwork<br>- Time Management<br><br><br><br>  Technologies: Python, Django, Bootstrap<br><br>## ⚡ Interests<br>- Movies<br>- Travel<br>- Cricket<br>- Current Affairs
 
 
 ## 🌐 Socials:
