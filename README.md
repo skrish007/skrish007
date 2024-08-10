@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 
 # 💫 About Me:
 <h3 align="center" style="font-family: 'Kalam', cursive; font-size: 18px;">Highly motivated MCA graduate with a flair for quality assurance and software testing. Committed to not
