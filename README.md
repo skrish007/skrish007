@@ -1,10 +1,10 @@
-### Hi there 👋 , I'm [K Shyam Krishnan](https://www.github.com/skrish007) 
+### <span style="font-family: 'Courier New', Courier, monospace;">Hi there 👋 , I'm [K Shyam Krishnan](https://www.github.com/skrish007)</span>
 
 <p align="right">
   <img src="magicstudio-art%20(4).jpg" alt="K Shyam Krishnan" width="150" style="border-radius: 8px;"/>
 </p>
 
-I'm a passionate software tester eager to dive into the world of quality assurance and testing. I love exploring new tools and techniques, and I'm always excited to ensure software is robust and user-friendly. As a fresher, I'm enthusiastic about learning from experienced professionals and contributing to open-source projects. Let's work together to make great software that stands the test of time!
+<span style="font-family: 'Courier New', Courier, monospace;">I'm a passionate software tester eager to dive into the world of quality assurance and testing. I love exploring new tools and techniques, and I'm always excited to ensure software is robust and user-friendly. As a fresher, I'm enthusiastic about learning from experienced professionals and contributing to open-source projects. Let's work together to make great software that stands the test of time!</span>
 
 ### 🛠️ Currently Working On
 - Learning automated testing tools and frameworks
@@ -31,8 +31,7 @@ I'm a passionate software tester eager to dive into the world of quality assuran
 - [LinkedIn](https://www.linkedin.com/in/skrish007/)
 - [Email](mailto:s4shyam007@gmail.com)
 
-### 😄 Pronouns:
-- He/Him
+
 
 ### ⚡ Fun Fact:
 - I love solving puzzles and brain teasers—it's like debugging but for fun!
