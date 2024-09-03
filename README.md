@@ -1,6 +1,8 @@
-### Hi there 👋 , I'm [K Shyam Krishnan](https://www.github.com/skrish007) <p align="right"> <img src="magicstudio-art (4).jpg"/></p></p>
+### Hi there 👋 , I'm [K Shyam Krishnan](https://www.github.com/skrish007) 
 
-![K Shyam Krishnan](https://github.com/skrish007)
+<p align="right">
+  <img src="magicstudio-art%20(4).jpg" alt="K Shyam Krishnan" width="150" style="border-radius: 8px;"/>
+</p>
 
 I'm a passionate software tester eager to dive into the world of quality assurance and testing. I love exploring new tools and techniques, and I'm always excited to ensure software is robust and user-friendly. As a fresher, I'm enthusiastic about learning from experienced professionals and contributing to open-source projects. Let's work together to make great software that stands the test of time!
 
@@ -27,7 +29,6 @@ I'm a passionate software tester eager to dive into the world of quality assuran
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/skrish007/)
-- 
 - [Email](mailto:s4shyam007@gmail.com)
 
 ### 😄 Pronouns:
@@ -36,11 +37,7 @@ I'm a passionate software tester eager to dive into the world of quality assuran
 ### ⚡ Fun Fact:
 - I love solving puzzles and brain teasers—it's like debugging but for fun!
 
-
-
 > "Quality is never an accident. It is always the result of intelligent effort."  
 > -- John Ruskin
 
 <br/>
-
-
