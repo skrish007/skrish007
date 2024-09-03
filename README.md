@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [K Shyam Krishnan](https://www.github.com/skrish007) <p align="right"></p>
+### Hi there 👋 , I'm [K Shyam Krishnan](https://www.github.com/skrish007) <p align="right"> <img src="https://github.com/skrish007/skrish007/blob/main/magicstudio-art%20(4).jpg/></p></p>
 
 ![K Shyam Krishnan](https://github.com/skrish007)
 
